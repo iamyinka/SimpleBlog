@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog", "SimpleBlog\SimpleBlog.csproj", "{1497841C-ACC3-4D20-B60A-129E31179AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.Tests", "SimpleBlog.Tests\SimpleBlog.Tests.csproj", "{F8AD2DDE-C4DA-4E2D-81EE-C0B6AE37F970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1497841C-ACC3-4D20-B60A-129E31179AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1497841C-ACC3-4D20-B60A-129E31179AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1497841C-ACC3-4D20-B60A-129E31179AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1497841C-ACC3-4D20-B60A-129E31179AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8AD2DDE-C4DA-4E2D-81EE-C0B6AE37F970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AD2DDE-C4DA-4E2D-81EE-C0B6AE37F970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AD2DDE-C4DA-4E2D-81EE-C0B6AE37F970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AD2DDE-C4DA-4E2D-81EE-C0B6AE37F970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
